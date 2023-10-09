@@ -1,0 +1,4 @@
+# ninja log v5
+0	379	1684797171631059208	CMakeFiles/re2dfa.dir/main.cpp.o	15749bd0eaf4daba
+0	705	1684797171955058173	CMakeFiles/re2dfa.dir/task.cpp.o	301b4cc10b4bb5ee
+706	822	1684797172071057803	re2dfa	af3e30404df669e6

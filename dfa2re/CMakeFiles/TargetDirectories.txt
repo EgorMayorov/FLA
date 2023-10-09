@@ -1,0 +1,7 @@
+/home/egor/dfa2re/CMakeFiles/dfa2re.dir
+/home/egor/dfa2re/CMakeFiles/edit_cache.dir
+/home/egor/dfa2re/CMakeFiles/rebuild_cache.dir
+/home/egor/dfa2re/CMakeFiles/list_install_components.dir
+/home/egor/dfa2re/CMakeFiles/install.dir
+/home/egor/dfa2re/CMakeFiles/install/local.dir
+/home/egor/dfa2re/CMakeFiles/install/strip.dir

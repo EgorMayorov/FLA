@@ -1,0 +1,4 @@
+Cannot generate into /home/egor/dfa2re
+It was created with incompatible generator 'Unix Makefiles'
+
+Please either delete it manually or select another generation directory
